@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+    <message>OK</message>
+    <description>
+        <![CDATA[<p>
+            <div class="foo">foohah</div>
+        </p>]]></description>
+    <comment>&lt;p>barkee&lt;/p></comment>
+    <images><image>image_1.jpg</image><image>image_2.jpg</image></images>
+    <categories>
+        <categoryInfo>
+            <categoryId>200</categoryId>
+            <categoryName>hogehuga</categoryName>
+        </categoryInfo>
+        <categoryInfo>
+            <categoryId>201</categoryId>
+            <categoryName>piyopayo</categoryName>
+        </categoryInfo>
+    </categories>
+</result>
