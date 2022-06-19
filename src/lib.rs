@@ -1,7 +1,5 @@
 use std::fs;
 use std::env;
-use xmltojson;
-use serde_json;
 
 type MyResult = Result<(), Box<dyn std::error::Error>>;
 
